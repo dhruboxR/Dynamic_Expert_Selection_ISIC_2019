@@ -1,0 +1,30 @@
+{
+    "samples": 1267,
+    "correct": 899,
+    "wrong": 368,
+    "accuracy": 0.7095501183898973,
+    "balanced_accuracy": 0.5866580264617525,
+    "macro_f1": 0.5566597974190539,
+    "weighted_f1": 0.7132716217972265,
+    "macro_precision": 0.5397662978880919,
+    "macro_recall": 0.5866580264617525,
+    "mean_confidence_correct": 0.9141770015171293,
+    "mean_confidence_wrong": 0.7546176703889733,
+    "mean_entropy_correct": 0.11176890382917942,
+    "mean_entropy_wrong": 0.2891015509795518,
+    "mean_margin_correct": 0.8448800182637894,
+    "mean_margin_wrong": 0.5689561040693687,
+    "model": "EfficientNet-B3",
+    "model_key": "efficientnet_b3",
+    "num_classes": 8,
+    "classes": [
+        "AK",
+        "BCC",
+        "BKL",
+        "DF",
+        "MEL",
+        "NV",
+        "SCC",
+        "VASC"
+    ]
+}

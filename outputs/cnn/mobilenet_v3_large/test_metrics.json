@@ -1,0 +1,30 @@
+{
+    "samples": 1267,
+    "correct": 933,
+    "wrong": 334,
+    "accuracy": 0.7363851617995264,
+    "balanced_accuracy": 0.5854795003820381,
+    "macro_f1": 0.5591988579317541,
+    "weighted_f1": 0.7342314274848853,
+    "macro_precision": 0.5630752085057766,
+    "macro_recall": 0.5854795003820381,
+    "mean_confidence_correct": 0.9007894874002389,
+    "mean_confidence_wrong": 0.722096082246946,
+    "mean_entropy_correct": 0.1258478169763557,
+    "mean_entropy_wrong": 0.31598307416433796,
+    "mean_margin_correct": 0.8190000924836527,
+    "mean_margin_wrong": 0.5117378974379251,
+    "model": "MobileNetV3-Large",
+    "model_key": "mobilenet_v3_large",
+    "num_classes": 8,
+    "classes": [
+        "AK",
+        "BCC",
+        "BKL",
+        "DF",
+        "MEL",
+        "NV",
+        "SCC",
+        "VASC"
+    ]
+}

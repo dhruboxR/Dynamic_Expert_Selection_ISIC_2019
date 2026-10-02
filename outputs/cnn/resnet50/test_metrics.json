@@ -1,0 +1,30 @@
+{
+    "samples": 1267,
+    "correct": 936,
+    "wrong": 331,
+    "accuracy": 0.7387529597474349,
+    "balanced_accuracy": 0.6577081493193933,
+    "macro_f1": 0.6143400500697134,
+    "weighted_f1": 0.7408459976895112,
+    "macro_precision": 0.5903866760252788,
+    "macro_recall": 0.6577081493193933,
+    "mean_confidence_correct": 0.9222749299727954,
+    "mean_confidence_wrong": 0.8035648465156555,
+    "mean_entropy_correct": 0.0984452791487606,
+    "mean_entropy_wrong": 0.2282347587330107,
+    "mean_margin_correct": 0.8554771976591713,
+    "mean_margin_wrong": 0.6433382049178501,
+    "model": "ResNet50",
+    "model_key": "resnet50",
+    "num_classes": 8,
+    "classes": [
+        "AK",
+        "BCC",
+        "BKL",
+        "DF",
+        "MEL",
+        "NV",
+        "SCC",
+        "VASC"
+    ]
+}
