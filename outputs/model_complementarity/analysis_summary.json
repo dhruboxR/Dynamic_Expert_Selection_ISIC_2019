@@ -1,0 +1,28 @@
+{
+    "project": "Hybrid_v3",
+    "num_models": 6,
+    "num_test_samples": 1267,
+    "individual_best_model": {
+        "model": "EfficientNetV2-S",
+        "accuracy": 0.744277821625888,
+        "balanced_accuracy": 0.6039398676862535,
+        "macro_f1": 0.5931572591371816
+    },
+    "best_pair_by_oracle": {
+        "model_a": "ResNet50",
+        "model_b": "DeiT-Tiny",
+        "oracle_accuracy": 0.8389897395422258,
+        "both_correct": 787,
+        "a_only_correct": 149,
+        "b_only_correct": 127,
+        "both_wrong": 204,
+        "disagreement": 276,
+        "cohen_kappa": 0.44751335825399485
+    },
+    "best_majority_vote": {
+        "models": "ResNet50 + EfficientNetV2-S + MobileNetV3-Large + DeiT-Tiny + Swin-Tiny",
+        "accuracy": 0.7750591949486977,
+        "balanced_accuracy": 0.6188709699221188,
+        "macro_f1": 0.6161183069570213
+    }
+}
