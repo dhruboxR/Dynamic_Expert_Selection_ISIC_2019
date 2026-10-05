@@ -1,0 +1,3 @@
+case,samples,cnn_family_oracle_accuracy,vit_family_oracle_accuracy,either_family_correct
+CNN = ViT,997,0.9137412236710131,0.8746238716148446,0.925777331995988
+CNN != ViT,270,0.8074074074074075,0.6259259259259259,0.8925925925925926

@@ -1,0 +1,10 @@
+ensemble,models,oracle_correct,oracle_accuracy
+resnet50,resnet50,936,0.7387529597474349
+efficientnet_v2_s,efficientnet_v2_s,943,0.744277821625888
+efficientnet_b3,efficientnet_b3,899,0.7095501183898973
+mobilenet_v3_large,mobilenet_v3_large,933,0.7363851617995264
+deit_tiny,deit_tiny,914,0.7213891081294396
+swin_tiny,swin_tiny,925,0.7300710339384373
+CNN_ORACLE,"resnet50,efficientnet_v2_s,efficientnet_b3,mobilenet_v3_large",1129,0.8910812943962115
+VIT_ORACLE,"deit_tiny,swin_tiny",1041,0.8216258879242304
+ALL_MODELS_ORACLE,"resnet50,efficientnet_v2_s,efficientnet_b3,mobilenet_v3_large,deit_tiny,swin_tiny",1164,0.9187056037884768

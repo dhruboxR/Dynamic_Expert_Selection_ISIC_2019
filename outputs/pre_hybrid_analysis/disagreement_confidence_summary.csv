@@ -1,0 +1,5 @@
+metric,value
+total_samples,1267.0
+all_model_agreement,664.0
+any_model_disagreement,603.0
+confidence_winner_accuracy_on_disagreements,0.5737976782752903

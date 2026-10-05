@@ -1,0 +1,5 @@
+case,samples
+Both families have at least one correct,1006
+CNN-only correct,123
+ViT-only correct,35
+Neither family correct,103
