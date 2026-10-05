@@ -1,0 +1,13 @@
+{
+    "model": "swin_tiny",
+    "checkpoint": "/home/dhrubo_roy/Hybrid_v3/outputs/vit/swin_tiny/best_model.pt",
+    "samples": 1267,
+    "correct": 925,
+    "wrong": 342,
+    "test_accuracy": 0.7300710339384373,
+    "test_balanced_accuracy": 0.5638506539692917,
+    "test_macro_f1": 0.5439726375307893,
+    "test_weighted_f1": 0.7301867938450735,
+    "test_macro_precision": 0.5344787835090994,
+    "test_macro_recall": 0.5638506539692917
+}

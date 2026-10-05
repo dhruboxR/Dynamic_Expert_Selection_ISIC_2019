@@ -1,0 +1,13 @@
+{
+    "model": "deit_tiny",
+    "checkpoint": "/home/dhrubo_roy/Hybrid_v3/outputs/vit/deit_tiny/best_model.pt",
+    "samples": 1267,
+    "correct": 914,
+    "wrong": 353,
+    "test_accuracy": 0.7213891081294396,
+    "test_balanced_accuracy": 0.5703617228321329,
+    "test_macro_f1": 0.5620008465667012,
+    "test_weighted_f1": 0.7168032805630619,
+    "test_macro_precision": 0.5965439132378835,
+    "test_macro_recall": 0.5703617228321329
+}
