@@ -22,5 +22,9 @@ The repository is being published gradually, folder by folder. Additional source
 **Please note:** The ISIC 2019 dataset itself is excluded from this repository.
 
 ---
+## Collaborator :
+This paper is being developed collaboratively by the following team members:
 
-update
+1. **Dhrubo Chandra Roy** — 
+2. **Mohaimenul Islam Abeer** —  
+3. **Nushrat Shramin Shanu** — [shanunushrat@gmail.com]
