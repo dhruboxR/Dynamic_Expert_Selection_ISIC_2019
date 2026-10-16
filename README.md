@@ -25,6 +25,6 @@ The repository is being published gradually, folder by folder. Additional source
 ## Collaborator :
 This paper is co-authored by 3 team members:
 
-1. **Dhrubo Chandra Roy** — 
+1. **Dhrubo Chandra Roy** — [dhrubox656@gmail.com] 
 2. **Mohaimenul Islam Abeer** —  
 3. **Nushrat Shramin Shanu** — [shanunushrat@gmail.com]
