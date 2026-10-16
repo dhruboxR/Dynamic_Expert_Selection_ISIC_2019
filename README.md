@@ -23,7 +23,7 @@ The repository is being published gradually, folder by folder. Additional source
 
 ---
 ## Collaborator :
-This paper is being developed collaboratively by the following team members:
+This paper is co-authored by 3 team members:
 
 1. **Dhrubo Chandra Roy** — 
 2. **Mohaimenul Islam Abeer** —  
