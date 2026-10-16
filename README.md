@@ -23,4 +23,4 @@ The repository is being published gradually, folder by folder. Additional source
 
 ---
 
-*This repository is part of an ongoing research project. Content and organization may evolve as the work progresses.*
+update
